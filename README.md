@@ -8,13 +8,15 @@ This project will be based on your ability to create a frontend matching the des
 
 Instructions
 ---
-This is a fairly basic front-end piece to give us a general idea of where you are as a developer. 
+This is a fairly basic front-end piece to give us a general idea of where you are as a developer.
+You should complete this project with the Javascript framework of your choice. 
 We don't expect you to spend several days creating a fully finished page, but try and spend a few hours on it and 
 see how far you can get. If you're short on time we'd like to see the API interaction and search ability, rather than 
 the whole page being rushed. You should use it to demonstrate the following:
 
 - Version control: Ideally you will fork from this repo and provide us a link to your new repo containing the finished files.
-- Basic task runner workflow: There are instructions below for getting going in this very basic gulp project, but you should be comfortable using Gulp to compile SCSS and concatenate JS.
+- Basic task runner workflow: There are instructions below for getting going in this very basic gulp project, but you should be comfortable using Gulp to compile SCSS and concatenate JS or the specific build process required for the Javascript framework you have chosen.
+You must include a guide for compiling for development and production.
 - Javascript: This design presents a couple of opportunities to use JS. Using the Javascript framework of choice to connect to the API and show the resulting data.
 - SCSS: Make the most of the added functionality SCSS brings to the table.
 - Responsive: Don't worry about coding for every possible device. All we ask is that it looks ok on screens larger than 1024px and smaller than 500px (Just desktop and mobile). 
@@ -40,7 +42,7 @@ Resources
 This repo contains the follow resources you'll need to complete the task:
 
 - Design: The one page design is available in PDF and PNG format in the design folder.
-- SCSS Framework: We have incuded a basic gulp file which you can use but we are interested to see your choice of 
+- SCSS Framework: We have included a basic gulp file which you can use but we are interested to see your choice of 
 style framework, feel free to pick any that you want which allows you to match the design. 
 - Images: The image urls of each Pokémon are included in the API response. 
 - Fonts: This design uses Open Sans, which has already been included via their respective CDN's in the <head>.
@@ -55,7 +57,7 @@ Installation
 Build
 ---
 
-Depending on your methodology and the Javascript framework (if any) that you choose to use. Please define how this webpage should be compiled.
+Depending on your methodology and the Javascript framework (if any) that you choose to use. Please define how this web page should be compiled for development and production.
 i.e. using `gulp`
 
 Submission
