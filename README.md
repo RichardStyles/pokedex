@@ -3,18 +3,20 @@ Single page API Test
 
 Important
 ---
-This project will be based on your ability to create a frontend matching the design criteria, for a web based encyclopedia based on the popular franchise Pokémon - also known as a Pokédex 
+This project will be based on your ability to create a frontend matching the design criteria, for a web based encyclopedia based on the popular franchise Pokémon - also known as a Pokédex.
+
+You **must** fork this repository and submit your work via a Merge Request.
 
 
 Instructions
 ---
 This is a fairly basic front-end piece to give us a general idea of where you are as a developer.
 You should complete this project with the Javascript framework of your choice. 
-We don't expect you to spend several days creating a fully finished page, but try and spend a few hours on it and 
+We don't expect you to spend several days creating a fully finished page, but try to spend **no more than three hours** on it and 
 see how far you can get. If you're short on time we'd like to see the API interaction and search ability, rather than 
 the whole page being rushed. You should use it to demonstrate the following:
 
-- Version control: Ideally you will fork from this repo and provide us a link to your new repo containing the finished files.
+- Version control: Ideally you will fork from this repo and provide us a link to your new repo containing the finished files, along with your commit history.
 - Basic task runner workflow: There are instructions below for getting going in this very basic gulp project, but you should be comfortable using Gulp to compile SCSS and concatenate JS or the specific build process required for the Javascript framework you have chosen.
 You must include a guide for compiling for development and production.
 - Javascript: This design presents a couple of opportunities to use JS. Using the Javascript framework of choice to connect to the API and show the resulting data.
